@@ -1,0 +1,26 @@
+[
+    {
+      "nome": "Superman",
+      "caracteristicas": {
+        "Voa?": true,
+        "É humano?": false,
+        "É da DC?": true
+      }
+    },
+    {
+      "nome": "Homem-Aranha",
+      "caracteristicas": {
+        "Voa?": false,
+        "É humano?": true,
+        "É da DC?": false
+      }
+    },
+    {
+      "nome": "Batman",
+      "caracteristicas": {
+        "Voa?": false,
+        "É humano?": true,
+        "É da DC?": true
+      }
+    }
+  ]
